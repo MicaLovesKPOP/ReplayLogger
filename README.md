@@ -1,4 +1,4 @@
-# ReplayLogger [![Download](https://img.shields.io/badge/Download-Latest_Release-brightgreen)](https://github.com/MicaLovesKPOP/ReplayLogger/releases/latest)
+# ReplayLogger [![Download](https://img.shields.io/badge/Download-Pre--Release-orange)](https://github.com/MicaLovesKPOP/ReplayLogger/releases/latest)
 
 Replay logging/backup script for Crashday. Meant to run as a Windows service. More details will follow in due time.
 

@@ -2,13 +2,13 @@
 
 Replay logging/backup script for Crashday. Meant to run as a Windows service. More details will follow in due time.
 
+<!---
 ## Table of Contents
 - [Features](#features)
 - [Usage](#usage)
 - [Screenshots](#screenshots)
 - [Acknowledgements](#acknowledgements)
 - [License](#license)
-<!--- - [Licenses](#license) -->
 
 
 ## Features
@@ -32,3 +32,4 @@ This project makes use of some code and text generated with the help of [Bing Ch
 ## License
 
 This project is licensed under the GNU GPLv3 License. See the [LICENSE](https://github.com/MicaLovesKPOP/WinterBot/blob/main/LICENSE) file for details.
+-->

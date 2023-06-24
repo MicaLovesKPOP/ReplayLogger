@@ -23,7 +23,7 @@ Replay logging/backup script for Crashday
 
 | LORUM | IPSUM |
 | --- | --- |
-| ![](screenshots/1.png) | ![](screenshots/2.png) |
+| ![IPSUM](screenshots/1.png) | ![LOREM](screenshots/2.png) |
 
 ## Acknowledgements
 
